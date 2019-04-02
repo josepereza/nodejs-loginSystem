@@ -12,3 +12,6 @@ or  `git clone git@github.com:jackyeh168/nodejs-loginSystem.git`
 5. Create the database schema: `node script/create_database.js`
 6. Launch: `npm start or nodemon ./bin/www`
 7. Visit in your browser at: `http://localhost:3000`
+![Alt text](nodejs-loginSystem1.png)
+![Alt text](nodejs-loginSystem2.png)
+![Alt text](nodejs-loginSystem3.png)
